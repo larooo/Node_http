@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### OxFord Dictionary 
 
@@ -23,9 +23,4 @@ Provided by: Oxford University Press
 ```
 
 
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 4 hours to 1 day.
 
