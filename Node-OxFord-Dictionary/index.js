@@ -18,7 +18,7 @@ axios
     );
 
     const data = response.data.results[0].lexicalEntries[0].entries[0].senses;
-    const results = data.map(def => def.shortDefinitions);
+    const results = data.map((def, i) => `${i + 1}- ${def.shortDefinitions}`);
     console.log(results);
   });
 
